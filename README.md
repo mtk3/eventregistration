@@ -1,2 +1,1 @@
-# eventregistration
-ECSE321 tutorial - EventRegistration example
+# eventregistration-w2020
